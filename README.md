@@ -9,4 +9,4 @@ It was my first javascript game and this is my first github repo .
 
 You can check it out here http://sourabh2k15.github.io/lostinmigration/ 
 
-Here is the facebook app https://apps.facebook.com/lost_in_migration/
+Here is the facebook app https://apps.facebook.com/lostinmigration/
